@@ -1,5 +1,11 @@
 # Comment devenir un Developpeur Web 👨‍💻
 
+<div style="text-align: center;">
+
+![alt text](https://i.pinimg.com/564x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg "Our logo")
+
+</div>
+
 <div>
   <img
       style="
