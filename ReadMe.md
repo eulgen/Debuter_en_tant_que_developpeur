@@ -1,7 +1,8 @@
 # Comment devenir un Developpeur Web 👨‍💻
 
 <img
-    style="display: block;
+    style="text-align:center;
+           display: block;
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
