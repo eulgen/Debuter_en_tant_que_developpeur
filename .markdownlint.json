@@ -4,7 +4,8 @@
     "allowed_elements": [
       "nobr",
       "sup",
-      "div"
+      "div",
+      "img"
     ]
   },
   "MD003": { "style": "atx_closed" },
