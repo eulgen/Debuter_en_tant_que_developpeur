@@ -1,0 +1,13 @@
+
+{
+  "MD033": {
+    "allowed_elements": [
+      "nobr",
+      "sup",
+      "div"
+    ]
+  },
+  "MD003": { "style": "atx_closed" },
+    "MD007": { "indent": 4 },
+    "no-hard-tabs": false
+}
