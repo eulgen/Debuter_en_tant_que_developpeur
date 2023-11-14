@@ -5,7 +5,7 @@
            margin-left: auto;
            margin-right: auto;
            width: 60%;"
-    src="panda.jpeg"
+    src="https://i.pinimg.com/564x/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg"
     alt="Our logo">
 </img>
 
